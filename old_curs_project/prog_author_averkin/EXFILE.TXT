@@ -1,0 +1,21 @@
+20 
+|  1 |poselok-Sghukowka |class-Lux     |maxskidka-10% |otdelka-YES |ploshad-1500M^2 |status-SOLD | 3750000$ |
+|  2 |poselok-Krekshino |class-LowEnd  |maxskidka- 5% |otdelka-NO  |ploshad-1200M^2 |status-SELL | 3720000$ |
+|  3 |poselok-Sghukowka |class-LowCost |maxskidka- 0% |otdelka-YES |ploshad- 900M^2 |status-SELL | 1080000$ |
+|  4 |poselok-Krekshino |class-PREMIUM |maxskidka- 0% |otdelka-YES |ploshad-2700M^2 |status-SELL |18900000$ |
+|  5 |poselok-Burgas    |class-PREMIUM |maxskidka-11% |otdelka-YES |ploshad-2500M^2 |status-SOLD | 9250000$ |
+|  6 |poselok-Burgas    |class-LowCost |maxskidka- 7% |otdelka-NO  |ploshad-1700M^2 |status-SELL | 1870000$ |
+|  7 |poselok-Sghukowka |class-LowEnd  |maxskidka- 1% |otdelka-YES |ploshad-1200M^2 |status-SELL | 2040000$ |
+|  8 |poselok-Sghukowka |class-PREMIUM |maxskidka- 5% |otdelka-NO  |ploshad-2100M^2 |status-SELL | 8400000$ |
+|  9 |poselok-Krekshino |class-LowEnd  |maxskidka- 3% |otdelka-YES |ploshad-1650M^2 |status-SELL | 5115000$ |
+| 10 |poselok-Krekshino |class-LowCost |maxskidka- 5% |otdelka-YES |ploshad- 990M^2 |status-SOLD | 1980000$ |
+| 11 |poselok-Krekshino |class-Lux     |maxskidka- 5% |otdelka-YES |ploshad-2100M^2 |status-SELL | 8400000$ |
+| 12 |poselok-Iwanowka  |class-LowCost |maxskidka- 1% |otdelka-YES |ploshad- 800M^2 |status-SELL |  640000$ |
+| 13 |poselok-Iwanowka  |class-Lux     |maxskidka-10% |otdelka-NO  |ploshad-1500M^2 |status-SELL | 3000000$ |
+| 14 |poselok-Iwanowka  |class-PREMIUM |maxskidka- 5% |otdelka-YES |ploshad-2050M^2 |status-SOLD | 7175000$ |
+| 15 |poselok-Iwanowka  |class-LowEnd  |maxskidka- 2% |otdelka-YES |ploshad-1500M^2 |status-SELL | 1650000$ |
+| 16 |poselok-Burgas    |class-LowEnd  |maxskidka- 1% |otdelka-YES |ploshad-2400M^2 |status-SELL | 3840000$ |
+| 17 |poselok-Burgas    |class-PREMIUM |maxskidka- 9% |otdelka-YES |ploshad-1100M^2 |status-SELL | 4070000$ |
+| 18 |poselok-Burgas    |class-Lux     |maxskidka- 3% |otdelka-NO  |ploshad-1900M^2 |status-SELL | 4370000$ |
+| 19 |poselok-Krekshino |class-PREMIUM |maxskidka- 0% |otdelka-YES |ploshad-3150M^2 |status-SELL |22050000$ |
+| 20 |poselok-Krekshino |class-Lux     |maxskidka- 2% |otdelka-YES |ploshad-1400M^2 |status-SELL | 5600000$ |

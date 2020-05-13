@@ -1,0 +1,4 @@
+1;Hello world;r;345;
+2;Welcome;w;65;
+3;I text to parse;t;6;
+4;End;w;875;

@@ -1,0 +1,21 @@
+20 
+|  1|poselok-Sghukowka      |class-Lux       |maxskidka-10%|otdelka-%-6s|ploshad-%5.dM^2|status-%-5s|cena-%lu|
+|  2|poselok-Krekshino      |class-LowEnd    |maxskidka- 5%|otdelka-%-6s|ploshad-%5.dM^2|status-%-5s|cena-%lu|
+|  3|poselok-Sghukowka      |class-LowCost   |maxskidka- 0%|otdelka-%-6s|ploshad-%5.dM^2|status-%-5s|cena-%lu|
+|  4|poselok-Krekshino      |class-PREMIUM   |maxskidka- 0%|otdelka-%-6s|ploshad-%5.dM^2|status-%-5s|cena-%lu|
+|  5|poselok-Burgas         |class-PREMIUM   |maxskidka-11%|otdelka-%-6s|ploshad-%5.dM^2|status-%-5s|cena-%lu|
+|  6|poselok-Burgas         |class-LowCost   |maxskidka- 7%|otdelka-%-6s|ploshad-%5.dM^2|status-%-5s|cena-%lu|
+|  7|poselok-Sghukowka      |class-LowEnd    |maxskidka- 1%|otdelka-%-6s|ploshad-%5.dM^2|status-%-5s|cena-%lu|
+|  8|poselok-Sghukowka      |class-PREMIUM   |maxskidka- 5%|otdelka-%-6s|ploshad-%5.dM^2|status-%-5s|cena-%lu|
+|  9|poselok-Krekshino      |class-LowEnd    |maxskidka- 3%|otdelka-%-6s|ploshad-%5.dM^2|status-%-5s|cena-%lu|
+| 10|poselok-Krekshino      |class-LowCost   |maxskidka- 5%|otdelka-%-6s|ploshad-%5.dM^2|status-%-5s|cena-%lu|
+| 11|poselok-Krekshino      |class-Lux       |maxskidka- 5%|otdelka-%-6s|ploshad-%5.dM^2|status-%-5s|cena-%lu|
+| 12|poselok-Iwanowka       |class-LowCost   |maxskidka- 1%|otdelka-%-6s|ploshad-%5.dM^2|status-%-5s|cena-%lu|
+| 13|poselok-Iwanowka       |class-Lux       |maxskidka-10%|otdelka-%-6s|ploshad-%5.dM^2|status-%-5s|cena-%lu|
+| 14|poselok-Iwanowka       |class-PREMIUM   |maxskidka- 5%|otdelka-%-6s|ploshad-%5.dM^2|status-%-5s|cena-%lu|
+| 15|poselok-Iwanowka       |class-LowEnd    |maxskidka- 2%|otdelka-%-6s|ploshad-%5.dM^2|status-%-5s|cena-%lu|
+| 16|poselok-Burgas         |class-LowEnd    |maxskidka- 1%|otdelka-%-6s|ploshad-%5.dM^2|status-%-5s|cena-%lu|
+| 17|poselok-Burgas         |class-PREMIUM   |maxskidka- 9%|otdelka-%-6s|ploshad-%5.dM^2|status-%-5s|cena-%lu|
+| 18|poselok-Burgas         |class-Lux       |maxskidka- 3%|otdelka-%-6s|ploshad-%5.dM^2|status-%-5s|cena-%lu|
+| 19|poselok-Krekshino      |class-PREMIUM   |maxskidka- 0%|otdelka-%-6s|ploshad-%5.dM^2|status-%-5s|cena-%lu|
+| 20|poselok-Krekshino      |class-Lux       |maxskidka- 2%|otdelka-%-6s|ploshad-%5.dM^2|status-%-5s|cena-%lu|

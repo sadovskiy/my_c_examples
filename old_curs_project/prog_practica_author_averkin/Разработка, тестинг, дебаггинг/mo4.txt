@@ -1,0 +1,21 @@
+20 
+  1 poselok-Sghukowka       class-Lux        maxskidka-10.00prozentov otdelka-YES    ploshad- 1500M^2 status-SOLD  cena-0
+  2 poselok-Krekshino       class-LowEnd     maxskidka-5.00prozentov otdelka-NO     ploshad- 1200M^2 status-SELL  cena-0
+  3 poselok-Sghukowka       class-LowCost    maxskidka-1.00prozentov otdelka-YES    ploshad-  900M^2 status-SELL  cena-0
+  4 poselok-Krekshino       class-PREMIUM    maxskidka-1.00prozentov otdelka-YES    ploshad- 2700M^2 status-SELL  cena-0
+  5 poselok-Burgas          class-PREMIUM    maxskidka-12.00prozentov otdelka-YES    ploshad- 2500M^2 status-SOLD  cena-0
+  6 poselok-Burgas          class-LowCost    maxskidka-7.00prozentov otdelka-NO     ploshad- 1700M^2 status-SELL  cena-0
+  7 poselok-Sghukowka       class-LowEnd     maxskidka-2.00prozentov otdelka-YES    ploshad- 1200M^2 status-SELL  cena-0
+  8 poselok-Sghukowka       class-PREMIUM    maxskidka-6.00prozentov otdelka-NO     ploshad- 2100M^2 status-SELL  cena-0
+  9 poselok-Krekshino       class-LowEnd     maxskidka-4.00prozentov otdelka-YES    ploshad- 1650M^2 status-SELL  cena-0
+ 10 poselok-Krekshino       class-LowCost    maxskidka-5.00prozentov otdelka-YES    ploshad-  990M^2 status-SOLD  cena-0
+ 11 poselok-Krekshino       class-Lux        maxskidka-5.00prozentov otdelka-YES    ploshad- 2100M^2 status-SELL  cena-0
+ 12 poselok-Iwanowka        class-LowCost    maxskidka-2.00prozentov otdelka-YES    ploshad-  800M^2 status-SELL  cena-0
+ 13 poselok-Iwanowka        class-Lux        maxskidka-11.00prozentov otdelka-NO     ploshad- 1500M^2 status-SELL  cena-0
+ 14 poselok-Iwanowka        class-PREMIUM    maxskidka-6.00prozentov otdelka-YES    ploshad- 2050M^2 status-SOLD  cena-0
+ 15 poselok-Iwanowka        class-LowEnd     maxskidka-3.00prozentov otdelka-YES    ploshad- 1500M^2 status-SELL  cena-0
+ 16 poselok-Burgas          class-LowEnd     maxskidka-2.00prozentov otdelka-YES    ploshad- 2400M^2 status-SELL  cena-0
+ 17 poselok-Burgas          class-PREMIUM    maxskidka-9.00prozentov otdelka-YES    ploshad- 1100M^2 status-SELL  cena-0
+ 18 poselok-Burgas          class-Lux        maxskidka-4.00prozentov otdelka-NO     ploshad- 1900M^2 status-SELL  cena-0
+ 19 poselok-Krekshino       class-PREMIUM    maxskidka-1.00prozentov otdelka-YES    ploshad- 3150M^2 status-SELL  cena-0
+ 20 poselok-Krekshino       class-Lux        maxskidka-3.00prozentov otdelka-YES    ploshad- 1400M^2 status-SELL  cena-0

@@ -1,0 +1,24 @@
+20 
+  1 poselok-Sghukowka            class-Lux        maxskidka-1012236tdelka- name of new datafile. ploshad- 5295M^2 status-(null) cena-306184192
+  2 poselok-Krekshino            class-LowEnd     maxskidka-512312tdelka-sec.  ploshad- 5339M^2 status-(null) cena-306184192
+  3 poselok-Sghukowka            class-LowCost    maxskidka-112366tdelka-tabase. ploshad- 5383M^2 status-(null) cena-306184192
+  4 poselok-Krekshino            class-PREMIUM    maxskidka-112442tdelka-!!!                  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  ploshad- 5427M^2 status-(null) cena-306184192
+  5 poselok-Burgas               class-PREMIUM    maxskidka-1212516tdelka-∫ì®Aéﬁ˘ù˚Î~™QC«ë¶Æ†„£FuÅÜuv…HMÂ]=≈];ãûíZõó äR`ƒ%u ploshad- 5471M^2 status-(null) cena-306184192
+  6 poselok-Burgas               class-LowCost    maxskidka-712572tdelka-ID FILE NAME. ploshad- 5515M^2 status-(null) cena-306184192
+  7 poselok-Sghukowka            class-LowEnd     maxskidka-212646tdelka-sec.  ploshad- 5559M^2 status-(null) cena-306184192
+  8 poselok-Sghukowka            class-PREMIUM    maxskidka-612722tdelka-      ploshad- 5603M^2 status-(null) cena-306184192
+  9 poselok-Krekshino            class-LowEnd     maxskidka-412776tdelka--%5.dM^2 status-%-5s cena-%lu
+ ploshad- 5647M^2 status-(null) cena-306184192
+ 10 poselok-Krekshino            class-LowCost    maxskidka-513052tdelka-erkin Grygory ploshad- 5691M^2 status-(null) cena-306184192
+ 11 poselok-Krekshino            class-Lux        maxskidka-513126tdelka-      ploshad- 5735M^2 status-(null) cena-306184192
+ 12 poselok-Iwanowka             class-LowCost    maxskidka-213202tdelka-een mode, press ESC
+ ploshad- 5779M^2 status-(null) cena-306184192
+ 13 poselok-Iwanowka             class-Lux        maxskidka-1113256tdelka- name of new datafile. ploshad- 5823M^2 status-(null) cena-306184192
+ 14 poselok-Iwanowka             class-PREMIUM    maxskidka-613332tdelka- Emergency exit-END ploshad- 5867M^2 status-(null) cena-306184192
+ 15 poselok-Iwanowka             class-LowEnd     maxskidka-313406tdelka- name of new datafile. ploshad- 5911M^2 status-(null) cena-306184192
+ 16 poselok-Burgas               class-LowEnd     maxskidka-213462tdelka-ˇˇˇˇÔˇˇˇˇˇˇˇˇ˛ ploshad- 5955M^2 status-(null) cena-306184192
+ 17 poselok-Burgas               class-PREMIUM    maxskidka-913536tdelka-RASH! CAN'T OPEN '%s'.
+Exit in 3 sec. ploshad- 5999M^2 status-(null) cena-306184192
+ 18 poselok-Burgas               class-Lux        maxskidka-413612tdelka-      ploshad- 6043M^2 status-(null) cena-306184192
+ 19 poselok-Krekshino            class-PREMIUM    maxskidka-113666tdelka-      ploshad- 6087M^2 status-(null) cena-306184192
+ 20 poselok-Krekshino            class-Lux        maxskidka-313742tdelka-saved. ploshad- 6131M^2 status-(null) cena-306184192

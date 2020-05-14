@@ -61,7 +61,7 @@ char Menu4[][20] = { "Autors    ",
 			          "About   F1",};
 
 char BdFile[20]="BDD.DAT";
-char SpravFile[20]="BDS.DAT";
+char SpravFile[20]="BDS#.DAT";
 char Lastmessage[78];
 
 struct sprav{
@@ -83,6 +83,8 @@ struct order{
 
 void *Lwindowbuf;
 void *Mwindowbuf;
+
+FILE *inter;
 
 main()
 {
@@ -1315,20 +1317,55 @@ int i;
   fclose(inone);
 }
 
-READSPR(){
-FILE *intwo;
-int i;
-if ((intwo=fopen(SpravFile,"r"))==NULL)
+
+howmanyelements()
+{
+FILE *in;
+int N=0;
+char ch;
+if ((in=fopen(SpravFile,"r"))==NULL)
   {printf("FILE CRASH! CAN'T OPEN '%s'.\nExit in 3 sec.",SpravFile); sleep(3); exit(1);}
-  fscanf(intwo,"%d",&KOLYCHELEMENTOW[1]);
-  sp=(struct sprav*)malloc(KOLYCHELEMENTOW[1]*sizeof(struct sprav));
-  for(i=0;i<KOLYCHELEMENTOW[1];i++){
-    fscanf(intwo,"%d",&sp[i].id);
-    fscanf(intwo,"%s",sp[i].poselok);
-    fscanf(intwo,"%s",sp[i].clas);
-    fscanf(intwo,"%d",&sp[i].price);
-  }
-  fclose(intwo);
+   while(!feof(in))
+  {
+    ch=getc(in);
+    if(ch==35) N++;
+  };
+fclose(in);
+return N;
+}
+
+
+READSPR(){
+int i;
+char ch;
+KOLYCHELEMENTOW[1]=howmanyelements();
+KOLYCHELEMENTOW[1]/=4;
+sp=(struct sprav *)malloc(KOLYCHELEMENTOW[1]*sizeof(struct sprav));
+inter=fopen(SpravFile,"r");
+for(i=0;i<KOLYCHELEMENTOW[1];i++)
+{
+  sp[i].id=atoi(fileread());
+  strcpy(sp[i].poselok,fileread());
+  strcpy(sp[i].clas,fileread());
+  sp[i].price=atoi(fileread());
+};
+  fclose(inter);
+}
+
+
+fileread(){
+  char ch;
+  int i=0;
+  char b[30];
+  ch=getc(inter);
+    while((ch!=35)==1)
+    {
+      b[i]=ch;
+      i++;
+      ch=getc(inter);
+    }
+  b[i]='\0';
+  return b;
 }
 
 CONTROLPRINT(){
@@ -1352,6 +1389,7 @@ for(i=0;i<KOLYCHELEMENTOW[1];i++){
   }
 printf("\nDatabase sucsessfully readed.");
 delay(4000);
+getch();
 sprintf(Lastmessage,"Database loaded.");
 }
 
@@ -1360,9 +1398,8 @@ savecurrentdata(){
   int i;
   if(WHATFILEISOPEN==2||WHATFILEISOPEN==1){
     in=fopen(SpravFile,"w");
-    fprintf(in,"%d \n",KOLYCHELEMENTOW[1]);
     for(i=0;i<KOLYCHELEMENTOW[1];i++)
-    fprintf(in,"%d %s %s %d \n",sp[i].id, sp[i].poselok, sp[i].clas, sp[i].price);
+    fprintf(in,"%d#%s#%s#%d#",sp[i].id, sp[i].poselok, sp[i].clas, sp[i].price);
     fclose(in);
 
     in=fopen(BdFile,"w");

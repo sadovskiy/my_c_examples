@@ -1,0 +1,31 @@
+20 
+  1 poselok-Sghukowka       class-Lux        maxskidka- 0prozentov otdelka-
+      ploshad-    0M^2 status-‘     cena-98309286
+  2 poselok-Krekshino       class-LowEnd     maxskidka- 0prozentov otdelka-
+      ploshad-    0M^2 status-6     cena-78648530
+  3 poselok-Sghukowka       class-LowCost    maxskidka- 0prozentov otdelka-V‹vƒ~ÿt5ÿ‹= ploshad-   -1M^2 status-      cena-58987774
+  4 poselok-Krekshino       class-PREMIUM    maxskidka- 0prozentov otdelka-V‹vƒ~ÿt5ÿ‹= ploshad-   -1M^2 status-      cena-176952618
+  5 poselok-Burgas          class-PREMIUM    maxskidka- 0prozentov otdelka-M‰M‰Ã‹Lƒù
+ùÀ+Àëyµèn¸ ploshad-   -1M^2 status-      cena-163845462
+  6 poselok-Burgas          class-LowCost    maxskidka- 0prozentov otdelka-       ploshad-    0M^2 status-­JH cena-111416706
+  7 poselok-Sghukowka       class-LowEnd     maxskidka- 0prozentov otdelka-V‹vƒ~ÿt5ÿ‹= ploshad-   -1M^2 status-      cena-78648750
+  8 poselok-Sghukowka       class-PREMIUM    maxskidka- 0prozentov otdelka-M‰M‰Ã‹Lƒù
+ùÀ+Àëyµèn¸ ploshad-   -1M^2 status-      cena-137631194
+  9 poselok-Krekshino       class-LowEnd     maxskidka- 0prozentov otdelka-V‹vƒ~ÿt5ÿ‹= ploshad-   -1M^2 status-NH    cena-108140038
+ 10 poselok-Krekshino       class-LowCost    maxskidka- 0prozentov otdelka-
+      ploshad-    0M^2 status-6     cena-64886322
+ 11 poselok-Krekshino       class-Lux        maxskidka- 0prozentov otdelka-
+      ploshad-    0M^2 status-6     cena-137631326
+ 12 poselok-Iwanowka        class-LowCost    maxskidka- 0prozentov otdelka-V‹vƒ~ÿt5ÿ‹= ploshad-   -1M^2 status-      cena-52434570
+ 13 poselok-Iwanowka        class-Lux        maxskidka- 0prozentov otdelka-
+1    ploshad-   -1M^2 status-      cena-98309814
+ 14 poselok-Iwanowka        class-PREMIUM    maxskidka- 0prozentov otdelka-M‰M‰Ã‹Lƒù
+ùÀ+Àëyµèn¸ ploshad-   -1M^2 status-      cena-134354658
+ 15 poselok-Iwanowka        class-LowEnd     maxskidka- 0prozentov otdelka-M‰M‰Ã‹Lƒù
+ùÀ+Àëyµèn¸ ploshad-   -1M^2 status-      cena-98309902
+ 16 poselok-Burgas          class-LowEnd     maxskidka- 0prozentov otdelka-V‹vƒ~ÿt5ÿ‹= ploshad-   -1M^2 status-      cena-157292346
+ 17 poselok-Burgas          class-PREMIUM    maxskidka- 0prozentov otdelka-       ploshad-    0M^2 status-     cena-72095590
+ 18 poselok-Burgas          class-Lux        maxskidka- 0prozentov otdelka-V‹vƒ~ÿt5ÿ‹= ploshad-   -1M^2 status-NH    cena-124524434
+ 19 poselok-Krekshino       class-PREMIUM    maxskidka- 0prozentov otdelka-V‹vƒ~ÿt5ÿ‹= ploshad-   -1M^2 status-      cena-206444478
+ 20 poselok-Krekshino       class-Lux        maxskidka- 0prozentov otdelka-M‰M‰Ã‹Lƒù
+ùÀ+Àëyµèn¸ ploshad-   -1M^2 status-      cena-91756522

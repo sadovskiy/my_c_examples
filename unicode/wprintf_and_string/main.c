@@ -31,7 +31,7 @@ int main(void)
     setlocale(LC_ALL, "ru_RU.UTF-8");
 #endif
 
-#ifdef _WIN64
+#ifdef __WINNT__
     setlocale(LC_ALL, "rus"); // или setlocale(LC_ALL, "Russian");
 #endif
 

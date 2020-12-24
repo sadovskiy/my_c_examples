@@ -9,7 +9,7 @@
  *
  * Написана Садовским Б. С.
  *
- * Программа демонстрирует работу с типом wchar_t для одного символа
+ * Программа демонстрирует алгоритм кодирования широких символов wchar_t
  * 
  * Подробнее:
  * https://ru.wikipedia.org/wiki/Широкий_символ
@@ -25,7 +25,7 @@
 #include <locale.h>
 
 // Для MS Windows
-#ifdef _WIN64
+#ifdef __WINNT__
 #include <fcntl.h>
 #include <io.h>
 #endif
@@ -39,7 +39,7 @@ int main(void)
     #endif
     
     // Для MS Windows
-    #ifdef _WIN64
+    #ifdef __WINNT__
     setlocale(LC_ALL, "rus");// или "Russian"
     #endif
     // Подробнее:

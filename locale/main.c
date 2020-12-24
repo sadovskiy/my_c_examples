@@ -29,7 +29,7 @@ int main(void)
     struct lconv* current_locale = 0;
 
 
-//    setlocale(LC_ALL, "ru_RU.UTF-8");
+    setlocale(LC_ALL, "ru_RU.UTF-8");
 
     // Узнаем удалось ли сменить локаль
     current_locale = localeconv();

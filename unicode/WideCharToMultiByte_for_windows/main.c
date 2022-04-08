@@ -45,7 +45,7 @@ int main(void)
 
     unsigned long read;
 
-#ifdef _WIN64
+#ifdef _WIN64 // Поддерживается компилятором MSVC 
     // Извлекаем дискриптор устройства STD_INPUT_HANDLE (устройства ввода)
     // аналогична функции _fileno(stdout)
     void *console = GetStdHandle(STD_INPUT_HANDLE);

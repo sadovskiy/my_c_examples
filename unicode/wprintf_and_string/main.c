@@ -11,13 +11,13 @@
  *
  * Программа демонстрирует особенности ввода/вывода для однобайтных
  * и многобайтных символов
- * 
+ *
  * Подробнее:
  * https://ru.wikipedia.org/wiki/Широкий_символ
  * https://ru.wikipedia.org/wiki/Locale.h
  * https://ru.wikipedia.org/wiki/Printf
  *
- * 
+ *
  */
 
 #include <stdio.h>
@@ -31,7 +31,7 @@ int main(void)
     setlocale(LC_ALL, "ru_RU.UTF-8");
 #endif
 
-#ifdef __WINNT__
+#ifdef __WINNT__ // Для компилятора MSVC лучше использовать макрос _WIN64
     setlocale(LC_ALL, "rus"); // или setlocale(LC_ALL, "Russian");
 #endif
 

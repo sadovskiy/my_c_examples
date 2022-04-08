@@ -39,7 +39,7 @@ int main(void)
     #endif
     
     // Для MS Windows
-    #ifdef __WINNT__
+    #ifdef __WINNT__ // Для компилятора MSVC лучше использовать макрос _WIN64
     setlocale(LC_ALL, "rus");// или "Russian"
     #endif
     // Подробнее:

@@ -24,13 +24,13 @@
 #include <string.h>
 
 // Пригодно только для MS Windows
-#ifdef __WINNT__
+#ifdef __WINNT__ // Для компилятора MSVC лучше использовать макрос _WIN64
 #include <windows.h>
 #endif
 
 void utf8_to_cp866(const wchar_t *str)
 {
-#ifdef __WINNT__
+#ifdef __WINNT__ // Для компилятора MSVC лучше использовать макрос _WIN64
     char *buf = malloc(wcslen(str) + 1);
 
     // Переводим из UTF-8 в 866

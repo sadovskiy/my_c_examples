@@ -10,14 +10,14 @@
  * Написана Садовским Б. С.
  *
  * Программа демонстрирует алгоритм кодирования широких символов wchar_t
- * 
+ *
  * Подробнее:
  * https://ru.wikipedia.org/wiki/Широкий_символ
  * https://ru.wikipedia.org/wiki/Locale.h
  * https://ru.wikipedia.org/wiki/Символьный_тип
  * https://ru.wikipedia.org/wiki/Printf
- * 
- * 
+ *
+ *
  */
 
 #include <stdlib.h>
@@ -37,7 +37,7 @@ int main(void)
     #ifdef __linux__
     setlocale(LC_ALL, "ru_RU.UTF-8");// В MS Windows обычно пишется "rus"
     #endif
-    
+
     // Для MS Windows
     #ifdef __WINNT__ // Для компилятора MSVC лучше использовать макрос _WIN64
     setlocale(LC_ALL, "rus");// или "Russian"
@@ -102,7 +102,7 @@ int main(void)
     // Покажем десятичный код
     // wprintf(L"Code dec: %d \n",  ch);
     // Но это плохой вариант. Не рекомендуется использовать
-    // Надо писать так (с привидением типа)
+    // Надо писать так (с приведением типа)
     wprintf(L"Code dec: %d\n",  (int)wch);
 
     // Выведем константу 0x0431 (символ 'б')

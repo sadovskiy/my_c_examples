@@ -8,7 +8,7 @@
  * Написана Садовским Б. С.
  *
  * Программа демонстрирует работу с динамической памятью
- * 
+ *
  * Подробнее:
  * https://ru.wikipedia.org/wiki/Динамическое_распределение_памяти
  * https://en.wikipedia.org/wiki/Memory_management
@@ -16,7 +16,7 @@
  * https://learnc.info/c/memory_allocation.html
  * https://ru.wikipedia.org/wiki/Куча_(память)
  *
- * 
+ *
  */
 
 #include <stdio.h>
@@ -37,7 +37,7 @@ int main(void)
         return EXIT_FAILURE;
     }
 
-    // Присвоим значение с явным привидением типа
+    // Присвоим значение с явным приведением типа
     *((unsigned char*)v_ptr) = 255;
 
     // Проверим, действительно ли переменная хранит наше значение.
